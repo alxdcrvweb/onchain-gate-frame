@@ -10,7 +10,7 @@ const initialFrame: Frame = {
     {
       label: "I'M GOING ONCHAIN",
       action: "link",
-      target: `https://warpcast.com/~/compose?text=⛓%20All%20trenches%20lead%20onchain%20&embeds[]=${process.env.NEXT_PUBLIC_HOST}`,
+      target: `https://warpcast.com/~/compose?text=⛓%20All%20trenches%20lead%20onchain&embeds[]=${process.env.NEXT_PUBLIC_HOST}`,
     
     },
 
