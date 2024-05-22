@@ -1,7 +1,6 @@
 import { Frame, getFrameFlattened } from "frames.js";
 import type { Metadata } from "next";
 
-// Declare the frame
 const imageUrl = `${process.env.NEXT_PUBLIC_HOST}/gate.png`;
 const initialFrame: Frame = {
   image: imageUrl,
