@@ -16,7 +16,7 @@ const initialFrame: Frame = {
 
   ],
   postUrl: `${process.env.NEXT_PUBLIC_HOST}/showdown`,
-  imageAspectRatio: "1:1"
+  // imageAspectRatio: "1:1"
 };
 
 // Export Next.js metadata
