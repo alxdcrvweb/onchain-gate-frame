@@ -19,7 +19,6 @@ const initialFrame: Frame = {
   // imageAspectRatio: "1:1"
 };
 
-// Export Next.js metadata
 export const metadata: Metadata = {
   title: "Onchain gate",
   description: "I'm going onchain",
